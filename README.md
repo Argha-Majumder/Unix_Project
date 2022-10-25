@@ -8,8 +8,8 @@ If the user's answer is incorrect the user should be advised that their guess wa
 
 If the user's guess is correct then they should be congratulated and the program should end.The program should not end until the user has entered the correct number of files in the current directory.
 
-**Date and Timing of this Project : **
-Tue Oct 25 21:52:40 IST 2022
+**Date and Timing of this Project :**
+Tue Oct 25 21:54:27 IST 2022
 
-**Number of lines in the program : **
+**Number of lines in the program :**
 26 guessinggame.sh

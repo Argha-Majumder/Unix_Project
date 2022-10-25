@@ -9,9 +9,9 @@ README.md:
 	echo "" >> README.md
 	echo "If the user's guess is correct then they should be congratulated and the program should end.The program should not end until the user has entered the correct number of files in the current directory." >> README.md
 	echo "" >> README.md
-	echo "**Date and Timing of this Project : **" >> README.md
+	echo "**Date and Timing of this Project :**" >> README.md
 	date >> README.md
 	echo "" >> README.md
-	echo "**Number of lines in the program : **" >> README.md
+	echo "**Number of lines in the program :**" >> README.md
 	wc -l guessinggame.sh >> README.md
 
